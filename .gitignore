@@ -1,0 +1,8 @@
+/geozet-webapp/target
+/geozet-webapp/.settings
+/geozet-webapp/.classpath
+/geozet-webapp/.project
+*.classpath
+*.project
+/target
+.DS_Store
